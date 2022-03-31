@@ -1,0 +1,95 @@
+﻿  2.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1788,1): error C2054: 在“define”之后应输入“(”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1788,1): error C2082: 形参“sprintf”的重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1788,1): error C2061: 语法错误: 标识符“define”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1964,1): error C2054: 在“define”之后应输入“(”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1964,1): error C2082: 形参“_snprintf”的重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1964,1): error C2061: 语法错误: 标识符“define”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2146: 语法错误: 缺少“)”(在标识符“wchar_t”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2491: “wcscat”: 不允许 dllimport 函数 的定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2085: “_Destination”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2082: 形参“wchar_t”的重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(104,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2146: 语法错误: 缺少“)”(在标识符“wchar_t”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2491: “wcscpy”: 不允许 dllimport 函数 的定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2085: “_Destination”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2082: 形参“wchar_t”的重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2143: 语法错误: 缺少“;”(在“const”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(123,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2146: 语法错误: 缺少“)”(在标识符“wchar_t”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2491: “_wcslwr”: 不允许 dllimport 函数 的定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(386,1): error C2085: “_String”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(393,6): error C2085: “_wcslwr_s_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(406,1): error C2085: “_wcslwr_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(412,6): error C2085: “_wcsupr_s”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2146: 语法错误: 缺少“)”(在标识符“wchar_t”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2085: “_wcsupr”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2146: 语法错误: 缺少“,”(在标识符“wchar_t”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstring.h(422,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(91,1): error C2086: “int define”: 重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(1957): message : 参见“define”的声明
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2054: 在“define”之后应输入“(”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2085: “strcat”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2085: “_Destination”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2059: 语法错误:“类型”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(95,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2054: 在“define”之后应输入“(”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2085: “strcpy”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2085: “_Destination”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2059: 语法错误:“类型”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(134,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2491: “_strlwr”: 不允许 dllimport 函数 的定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(233,1): error C2085: “_String”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(240,6): error C2085: “_strlwr_s_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(253,1): error C2085: “_strlwr_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(268,1): error C2085: “strncat”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(275,6): error C2085: “strncmp”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(282,6): error C2085: “_strnicmp”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(290,6): error C2085: “_strnicmp_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(297,6): error C2085: “_strnicoll”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(305,6): error C2085: “_strnicoll_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(312,6): error C2085: “_strncoll”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(320,6): error C2085: “_strncoll_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(325,6): error C2085: “__strncnt”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(340,1): error C2085: “strncpy”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(354,6): error C2085: “strnlen”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(371,5): error C2085: “strnlen_s”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(371,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(372,24): error C2065: “_String”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(372,50): error C2065: “_String”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(372,61): error C2065: “_MaxCount”: 未声明的标识符
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2054: 在“define”之后应输入“(”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2085: “_strset”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2085: “_Destination”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2059: 语法错误:“类型”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(427,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2491: “_strupr”: 不允许 dllimport 函数 的定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2059: 语法错误:“)”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(455,1): error C2085: “_String”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(462,6): error C2085: “_strupr_s_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(475,1): error C2085: “_strupr_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(483,6): error C2085: “strxfrm”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(492,6): error C2085: “_strxfrm_l”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(534,10): error C2085: “strdup”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(542,10): error C2085: “strcmpi”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(548,10): error C2085: “stricmp”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(553,10): error C2085: “strlwr”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(560,10): error C2085: “strnicmp”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(567,10): error C2085: “strnset”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(572,10): error C2085: “strrev”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(577,32): error C2085: “strset”: 不在形参表中
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\string.h(582,10): error C2085: “strupr”: 不在形参表中
+D:\c\Project2\Project2\2.c(5,1): error C2085: “main”: 不在形参表中
+D:\c\Project2\Project2\2.c(5,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)

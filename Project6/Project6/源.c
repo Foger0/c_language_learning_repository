@@ -1,23 +1,29 @@
 #define _CRT_SECURE_NO_WARNINGS  1
 #include<stdio.h>
-#include<math.h>
 int main()
 {
-       int x;
-       int i = 0;
-    int b = 0;
-    while(scanf("%d %d", &x, &b)!=EOF)
-    {  for (; x < b; x++)
+    int x = 0;
+    while (scanf("%d", &x) != EOF)
     {
-        if (x == pow(x / 100, 3) + pow(x / 10 % 10, 3) + pow(x % 10, 3))
+        int j = 0;
+        int i = x;
+        int n = x;
+        for (; j < i; j++, n--)
         {
-            printf("%d ", x);
-            i++;
-        }
+            x = i;
+            for (; x > 0; x--)
+            {
+                if (x == j + 1 && j + 1 != n)
+                {
+                    printf("*");
+                }
+                else if (x == n)
+                    printf("*");
+                else
+                    printf(" ");
 
-    }
-    if (i == 0)
-        printf("no");
-    printf("\n");
-    }return 0;
+            }
+            printf("\n");
+        }
+    } return 0;
 }

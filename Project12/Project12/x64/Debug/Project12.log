@@ -1,0 +1,3 @@
+﻿  源.c
+D:\c-language-learning\Project12\Project12\源.c(9): warning C4715: “gongyue”: 不是所有的控件路径都返回值
+  Project12.vcxproj -> D:\c-language-learning\Project12\x64\Debug\Project12.exe

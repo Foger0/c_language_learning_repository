@@ -14,7 +14,7 @@ int randset(int arr[ROW][DOL], int row, int dol)
 { 
 	int jug = 0;
 	int jug1 = 0;
-	while (jug<30000)
+	while (jug<70000)
 	{
 		int r = rand() % row;
 		int d = rand() % dol;
@@ -359,7 +359,7 @@ void game()
 	int win = 0;
 	int judge = 0;
 	int sum = 0;
-	while (sum<=6&&judge==0)
+	while (sum<=7&&judge==0)
 	{
 	 win = randset(arr, ROW, DOL);
 		displayboard(arr, ROW, DOL);
@@ -379,7 +379,7 @@ void game()
 			}
 		}
 	}
-	if (sum > 6)
+	if (sum > 7)
 		printf("ÄãÊäÁË\n");
 }
 int main()

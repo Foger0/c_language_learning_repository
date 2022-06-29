@@ -1,0 +1,4 @@
+﻿  源.c
+D:\c-language-learning\Project46\Project46\源.c(6,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c-language-learning\Project46\Project46\源.c(50,9): warning C4013: “gets”未定义；假设外部返回 int
+  Project46.vcxproj -> D:\c-language-learning\Project46\x64\Debug\Project46.exe

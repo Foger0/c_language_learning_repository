@@ -1,0 +1,2 @@
+﻿  源.c
+D:\c-language-learning\Project39\Project39\源.c(7): error C4700: 使用了未初始化的局部变量“i”
